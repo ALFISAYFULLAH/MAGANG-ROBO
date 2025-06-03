@@ -154,3 +154,6 @@ void loop() {
    - TURUN: Turunkan lifter
    - CAPIT: Tutup gripper
    - LEPAS: Buka gripper
+
+[###Link Simulasi Tinkercad]([URL-target](https://www.tinkercad.com/things/cUB3jR68jJM-fantastic-kieran))
+
